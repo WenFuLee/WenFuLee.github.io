@@ -1,10 +1,15 @@
-## CS 839 Spring 2018
+## CS 839 Data Science, Spring 2018
+
+Team information:
+Wen-Fu Lee, wlee256@wisc.edu
+Yahn-Chung Chen, chen666@wisc.edu
+Yuan-Ting Hsieh, yhsieh28@wisc.edu
 
 You can use the [editor on GitHub](https://github.com/WenFuLee/WenFuLee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project Stage 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
