@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS 839 Spring 2018
 
 You can use the [editor on GitHub](https://github.com/WenFuLee/WenFuLee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
